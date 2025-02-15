@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KanbanBoard</string>
+    <string name="todo">+ To Do</string>
+    <string name="in_progress">+ In Progress</string>"
+    <string name="completed">+ Completed</string>
+    <string name="demo_task">Take out the Trash</string>
+    <string name="notification_channel_id">default_channel_id</string>
+
+</resources>
